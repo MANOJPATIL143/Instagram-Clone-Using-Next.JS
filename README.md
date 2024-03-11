@@ -2,6 +2,7 @@
 This repository contains the code for an Instagram clone, a frontend web application built using Next.js, Tailwind CSS, Redux Toolkit, and React Query. It aims to replicate the core features and design of the popular social media platform, Instagram.
 
 # Features
+
 User authentication: Sign up, log in, and log out functionalities.
 User profile: Display user information, profile picture, and the ability to update the profile picture.
 Home feed: Display posts from the users that the logged-in user follows.
