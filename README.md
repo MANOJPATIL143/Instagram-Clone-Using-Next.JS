@@ -23,8 +23,7 @@ Cloud Storage: A service for storing user-uploaded images.
 To get a local copy of the project up and running, follow these steps:
 
 1)Clone the repository:
-git clone https://github.com/tehseen01/instagram-clone.git
-
+git clone https://github.com/MANOJPATIL143/Instagram-Clone-Using-Next.JS
 2)Install the dependencies:
 cd instagram-clone
 npm install
